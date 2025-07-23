@@ -49,13 +49,27 @@ Add screenshots in the screenshots folder and reference them in the documentatio
 Use the "Ask anything about your health..." input field for voice or text queries.
 
 Screenshots
-<img width="1365" height="634" alt="real health buddy 1" src="https://github.com/user-attachments/assets/a900e0ec-b38b-4710-a073-6edeff47b5ae" />
+Home Screen
 
-<img width="614" height="637" alt="real health buddy 2" src="https://github.com/user-attachments/assets/3ba067ca-681a-49df-9c4d-67e7dad29a03" />
-
-<img width="505" height="626" alt="real health buddy 3" src="https://github.com/user-attachments/assets/cce84e9b-6f0a-46b6-a849-c2e751625504" />
+Image: <img width="1365" height="634" alt="real health buddy 1" src="https://github.com/user-attachments/assets/a572334e-bc63-4442-9f76-8d512e3bb658" />
 
 
+
+Explanation: This is the main home screen of the Health Buddy application. It features a clean and intuitive interface with the app's logo and name prominently displayed at the top. The sidebar on the left includes options for starting a new chat, accessing Health Buddy features, and viewing recent activities such as Getting Started, Nutrition Tracking, Exercise Planning, Medication Reminders, and Sleep Analysis. The central area prompts the user with "How can I help you today?" and provides quick-action buttons for planning symptoms, checking workouts, and accessing health news. At the bottom, there’s an input field for asking health-related questions, accompanied by a disclaimer about consulting professionals for important health information.
+
+Create New Assistant Screen
+
+Image: <img width="614" height="637" alt="real health buddy 2" src="https://github.com/user-attachments/assets/55ddaff1-c7fd-4df4-8a1e-3adeda8105d1" />
+
+
+Explanation: This screen shows the interface for creating a new assistant within the Health Buddy app. The sidebar highlights the "Create New Assistant" option, indicating the user’s current action. The recent activities section lists familiar options like Getting Started, Nutrition Tracking, Exercise Planning, Medication Reminders, and Sleep Analysis. The main area remains minimal, suggesting that the creation process might involve additional steps or a pop-up form (not shown). The input field at the bottom allows users to ask questions, reinforcing the app’s interactive nature.
+
+Features Menu Expanded
+
+Image: <img width="505" height="626" alt="real health buddy 3" src="https://github.com/user-attachments/assets/44b6c2c7-9bf8-4107-9a84-93d8c0a9fa5b" />
+
+
+Explanation: This screen displays the expanded "Features" menu from the sidebar, showcasing additional functionalities of Health Buddy. Options include Emergency Call, Find Hospital Near Me, Call a Doctor, Identify Drugs, Health Guide, Connect Devices, and Health News, with Sleep Analysis also visible. This menu enhances the app’s utility by providing emergency and informational services alongside its core health-tracking features. The input field at the bottom remains available for user queries, maintaining the app’s focus on user engagement.
 
 Contributing
 
@@ -63,7 +77,6 @@ Fork the repository.
 Create a new branch (git checkout -b feature-branch).
 Make your changes and commit them (git commit -m "Add new feature").
 Push to the branch (git push origin feature-branch).
-
 Open a pull request.
 
 License
@@ -72,3 +85,6 @@ Acknowledgments
 
 Inspiration from health management needs.
 Thanks to open-source communities for tools and libraries used.
+
+Last Updated
+This README was last updated at 12:10 PM WAT on Wednesday, July 23, 2025.
